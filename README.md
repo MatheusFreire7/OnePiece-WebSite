@@ -28,8 +28,8 @@ git clone git clone https://github.com/MatheusFreire7/OnePiece-WebSite.git
 
 ## 📷 Capturas de Tela
 
-![Captura de Tela 1](./screenshots/screenshot1.png)
-![Captura de Tela 2](./screenshots/screenshot2.png)
+![Luffy](https://github.com/MatheusFreire7/OnePiece-WebSite/assets/105430711/b9b6200b-4992-44f7-bf56-52523c5dec8a)
+![Nami](https://github.com/MatheusFreire7/OnePiece-WebSite/assets/105430711/20cc1b63-5ca0-45de-87ad-595bfe0beba4)
 
 ## 📜 Licença
 
