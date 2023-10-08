@@ -33,6 +33,6 @@ git clone git clone https://github.com/MatheusFreire7/OnePiece-WebSite.git
 
 ## 📜 Licença
 
-Este projeto está sob a licença [MIT](LICENSE.md).
+Este projeto está sob a licença [Licença MIT](LICENSE).
 
 Divirta-se explorando o mundo de One Piece! ⛵🌴
